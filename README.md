@@ -1,14 +1,17 @@
-<h2 align="left">Hi 👋! A passionate Backend developer && I'm Computer Enthusiast.</h2>
 
-###
+<h1 align="center">A passionate Backend developer && I'm Computer Enthusiast.</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xdlt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xdlt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph"  />
+  <img src="https://profile-counter.glitch.me/0xdlt/count.svg?"  />
 </div>
 
-###
+- 🔭 I’m currently working on **Backend Projects**
 
+- 🌱 I’m currently learning **PHP,C,SQl,Linux,Bash-Script**
+<p align="left">
+</p>
+
+<h3 align="left">💻Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
@@ -39,20 +42,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=0xdlt&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0xdlt&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdlt&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=0xdlt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/0xdlt/0xdlt/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/0xdlt/count.svg?"  />
-</div>
-
-###
