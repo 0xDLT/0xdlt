@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Backend Projects**
 
-- 🌱 I’m currently learning **PHP,C,SQl,Linux,Bash-Script**
+- 🌱 I’m currently learning **PHP,SQl**
 <p align="left">
 </p>
 
-<h3 align="left">💻Languages and Tools:</h3>
+<h1 align="left">💻Languages and Tools:</h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
@@ -44,15 +44,15 @@
 
 
 #
-<img align="right" height="150" src="https://media.giphy.com/media/CyeJcs9X94xBS/giphy.gif?cid=790b76118v2xuaz0rz3y595s8sxnimdw43tmzfzi3y32ztqh&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /><br><br><br><br>
+<img align="right" height="150" src="[https://media.giphy.com/media/CyeJcs9X94xBS/giphy.gif?cid=790b76118v2xuaz0rz3y595s8sxnimdw43tmzfzi3y32ztqh&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif?cid=790b7611qxjneqq6anrxrnmvkpqrbn9hhejoigru3u8bu8yi&ep=v1_gifs_search&rid=giphy.gif&ct=g)"  /><br><br><br><br>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0xdlt&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xdlt&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdlt&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=0xDLT&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0xDLT&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xDLT&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0xdlt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=0xDLT&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
