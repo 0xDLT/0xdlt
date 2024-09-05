@@ -1,5 +1,5 @@
 
-<h1 align="center">A passionate Backend developer && I'm Computer Enthusiast.</h1>
+<h1 align="center">A passionate Backend developer && Computer Enthusiast.</h1>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/0xdlt/count.svg?"  />
