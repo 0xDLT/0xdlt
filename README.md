@@ -44,8 +44,7 @@
 
 
 #
-<img align="right" height="150" src="[https://media.giphy.com/media/CyeJcs9X94xBS/giphy.gif?cid=790b76118v2xuaz0rz3y595s8sxnimdw43tmzfzi3y32ztqh&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif?cid=790b7611qxjneqq6anrxrnmvkpqrbn9hhejoigru3u8bu8yi&ep=v1_gifs_search&rid=giphy.gif&ct=g)"  /><br><br><br><br>
-
+<img align="right" height="150" src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif?cid=790b7611qxjneqq6anrxrnmvkpqrbn9hhejoigru3u8bu8yi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /><br><br><br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=0xDLT&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
