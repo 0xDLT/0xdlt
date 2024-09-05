@@ -49,7 +49,8 @@
 <img align="right" height="300" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b7611fbsitwv1xigzshsx4wo5i0a5cx08qwba6xc3z4pq&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /><br><br><br><br>
 
 
- 📊 GitHub Stats:
+ <h1>📊 GitHub Stats:</h1>
+ 
 ![](https://github-readme-stats.vercel.app/api?username=0xDLT&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0xDLT&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xDLT&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
