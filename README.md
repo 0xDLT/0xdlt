@@ -1,10 +1,6 @@
 
 <h1 align="center">A passionate Backend developer && Computer Enthusiast.</h1>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/0xdlt/count.svg?"  />
-</div>
-
 - 🔭 I’m currently working on **Backend Projects**
 
 - 🌱 I’m currently learning **PHP,SQl**
