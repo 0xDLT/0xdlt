@@ -49,7 +49,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0xDLT&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xDLT&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0xDLT&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
