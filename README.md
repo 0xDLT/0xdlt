@@ -39,8 +39,6 @@
   <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </div>
-#
-
 
 
 ### 📊 GitHub Stats:
