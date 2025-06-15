@@ -1,7 +1,7 @@
 # 👨‍💻 A Passionate Full-Stack Developer & Computer Enthusiast
 
 - 🔭 I’m currently working on **Backend Projects**  
-- 🌱 I’m learning **PHP** and **SQL**
+
 
 ## 💻 Languages and Tools:
 ### Frontend and Styling:
