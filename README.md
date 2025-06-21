@@ -15,7 +15,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=laravel,php,mysql" />
+        <img src="https://skillicons.dev/icons?i=express,nodejs,mysql" />
     </a>
 </div>
 
@@ -43,7 +43,7 @@
 ### Other
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,powershell" />
+        <img src="https://skillicons.dev/icons?i=c,powershell,laravel,php" />
     </a>
 </div>
 
